@@ -29,47 +29,42 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Sesión 1 - Introducción
-Qué es arduino?
-Por qué arduino?
-Hardware
-Instalación
-Interfaz gráfica y configuración
-Estructura del programa
-Práctica - Parpadeo de led integrado
+- Qué es arduino?
+- Por qué arduino?
+- Hardware
+- Instalación
+- Interfaz gráfica y configuración
+- Estructura del programa
+- Práctica - Parpadeo de led integrado
 
 ### Sesión 2 - Conceptos básicos
 
-Electrónica analógica
-Electrónica Digital
-Sistema binario
-Ley de ohm
-Resistencias en Serie y paralelo
-Código de colores
-Uso del multímetro
-
-
+- Electrónica analógica
+- Electrónica Digital
+- Sistema binario
+- Ley de ohm
+- Resistencias en Serie y paralelo
+- Código de colores
+- Uso del multímetro
 
 ### Sesión 3 - Programación en Arduino
-Sintaxis
-[Variables y tipos de datos](https://www.arduino.cc/reference/en/)
-Operadores
-Estructuras condicionales
+- Sintaxis
+- [Variables y tipos de datos](https://www.arduino.cc/reference/en/)
+- Operadores
+- Estructuras condicionales
 
 ### Sesión 4
-Estructuras iterativas
-Funciones 
-Variables Globales
-
-[Librerías](https://www.arduino.cc/en/Reference/Libraries)
-
+- Estructuras iterativas
+- Funciones 
+- Variables Globales
+- [Librerías](https://www.arduino.cc/en/Reference/Libraries)
 
 ### Sesión 5  -  puertos
-Botones
-Buzzer
-Display de  7 segmentos
-Sensores
-Actuadores: Relés, servomotor
+- Botones
+- Buzzer
+- Display de  7 segmentos
+- Sensores
+- Actuadores: Relés, servomotor
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contacto
+- [Mentor](https://www.facebook.com/MentorECU/)
