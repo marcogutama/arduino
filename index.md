@@ -1,4 +1,4 @@
-## Bienvenido al curso de arduino básico
+## Bienvenido al curso Introducción a Arduino
 
 You can use the [editor on GitHub](https://github.com/marcogutama/arduino/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -28,9 +28,47 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Sesión 1 - Introducción
+Qué es arduino?
+Por qué arduino?
+Hardware
+Instalación
+Interfaz gráfica y configuración
+Estructura del programa
+Práctica - Parpadeo de led integrado
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcogutama/arduino/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Sesión 2 - Conceptos básicos
+
+Electrónica analógica
+Electrónica Digital
+Sistema binario
+Ley de ohm
+Resistencias en Serie y paralelo
+Código de colores
+Uso del multímetro
+
+
+
+### Sesión 3 - Programación en Arduino
+Sintaxis
+[Variables y tipos de datos](https://www.arduino.cc/reference/en/)
+Operadores
+Estructuras condicionales
+
+### Sesión 4
+Estructuras iterativas
+Funciones 
+Variables Globales
+
+[Librerías](https://www.arduino.cc/en/Reference/Libraries)
+
+
+### Sesión 5  -  puertos
+Botones
+Buzzer
+Display de  7 segmentos
+Sensores
+Actuadores: Relés, servomotor
 
 ### Support or Contact
 
