@@ -1,32 +1,25 @@
-## Bienvenido al curso Introducción a Arduino
+![Image](https://www.mcnprofessionals.com/CourseImg/Arduino-Uno-banner.jpg)
+## Bienvenido al Curso Introducción a Arduino
 
-You can use the [editor on GitHub](https://github.com/marcogutama/arduino/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui puedes encontrar el contenido del curso, así como material adicional para el desarrollo del mismo. El curso:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Incluye: Materiales
+- Requisitos: Laptop, No se requiere conocimientos previos
 
-### Markdown
+### Temas:
+- Plataforma arduino (Arduino UNO)
+- Principios de Electrónica (Digital y analógica, protoboard)
+- Analógica
+- uso del multímetro
+- divisor de tensión
+- Digital
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- IDE Arduino (Instalación y entorno)
+- Comando y funciones de programación
+- Prácticas (leds, botones, sensores, comunicación serial)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## CONTENIDO
 
 ### Sesión 1 - Introducción
 - Qué es arduino?
